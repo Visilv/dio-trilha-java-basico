@@ -12,11 +12,11 @@
 - `selecionarMusica(String musica)`: Seleciona uma música específica.
 
 ### Aparelho Telefônico
-- `ligar(String numero)`: Liga para um número.
+- `ligar()`: Liga para um número.
 - `atender()`: Atende uma chamada.
 - `iniciarCorreioDeVoz()`: Inicia o correio de voz.
 
 ### Navegador na Internet
-- `exibirPagina(String url)`: Exibe uma página web.
+- `exibirPagina()`: Exibe uma página web.
 - `adicionarNovaAba()`: Adiciona uma nova aba no navegador.
 - `atualizarPagina()`: Atualiza a página web atual.
